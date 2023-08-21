@@ -38,9 +38,29 @@ I am a creative thinker and a self-motivated individual embarking on a career ch
 
 -   Employed strong organizational skills to manage multiple projects simultaneously, adhering to tight deadlines and delivering high-quality patterns.
 
-**Freelance Fashion Pattern Cutter**
+**Lilian Davis Group** (10/2017- 02/2023)
+Accounts Assistant 
 
-**Gradehouse** (start-date to end-date)  
+	System: Microsoft Dynamics 
+	Processing Supplier invoices
+	Supplier reconciliation
+	Supplier queries
+	Assisting management accounts
+	Reconciling vat, 
+	Bank reconciliation
+	Banking cheques 
+	BACS payment run 
+	Chaps payments
+	Petty Cash 
+	Mailbox Management 
+
+**IKEA** (10/2010- 09/2015)
+Logistics Co-worker
+
+Replenishment, Stock control, stock loss itinerary, Admin, timesheet
+
+
+**Gradehouse** (10/2012-04-2013)  
 Production Assistant
 
 - Pattern cutting
