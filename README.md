@@ -1,7 +1,6 @@
 ## AFRIKA BUCKNOR
 
-I am a creative thinker and a self-motivated individual embarking on a career change as an aspiring software developer. 
-  I have situated my artistic aesthetics in the fashion industry and have experience as a pattern cutter. Working with various software’s has opened my eyes to the possibilities of the technology industry and this discovery of the tech world has had me excited to learn more, with my passion for problem solving and knowledge of how things work it was a natural progression for me to find out more.
+I am a creative thinker and a self-motivated individual embarking on a career change as an aspiring software developer. I have established my artistic aesthetics in the fashion industry and gained experience as a pattern cutter. Working with various software applications has opened my eyes to the possibilities of the technology industry. This discovery of the tech world has excited me to learn more. With my passion for problem-solving and understanding of how things work, it was a natural progression for me to explore this new avenue.
 
 ## Projects
 
@@ -12,11 +11,29 @@ I am a creative thinker and a self-motivated individual embarking on a career ch
 
 ## Work Experience
 
-**Freelance Fashion Pattern Cutter** (start-date to end-date)  
+**Freelance Fashion Pattern Cutter** (Feb 2016 - Current)  
 
--	Pattern cutting, Grading, cutting and sample service
+-   Pattern cutting, Grading, cutting and sample service
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+-   Collaborated with designers to interpret and translate creative concepts into precise pattern templates, ensuring accurate representation of design elements.
+
+-   Utilized specialized CAD software (such as Gerber) to digitize and modify patterns, optimizing efficiency and accuracy in pattern production.
+
+-   Performed pattern grading to adjust sizes and proportions, maintaining consistency across different garment sizes and styles.
+
+-   Conducted meticulous fittings and adjustments on prototype garments to achieve optimal fit, drape, and overall aesthetic.
+
+-   Liaised with garment production teams to communicate technical specifications, ensuring seamless transition from pattern to final product.
+
+-   Demonstrated strong problem-solving skills by resolving intricate pattern-related challenges, optimizing design and production processes.
+
+-   Managed pattern libraries and documentation, ensuring easy accessibility and retrieval of patterns for future reference.
+
+-   Collaborated with cross-functional teams, including seamstresses, tailors, and designers, to ensure cohesive execution of design concepts.
+
+-   Employed strong organizational skills to manage multiple projects simultaneously, adhering to tight deadlines and delivering high-quality patterns.
+
+**Freelance Fashion Pattern Cutter**
 
 **Gradehouse** (start-date to end-date)  
 Production Assistant
