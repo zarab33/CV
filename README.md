@@ -1,37 +1,39 @@
-## Your Name
+## AFRIKA BUCKNOR
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I am a creative thinker and a self-motivated individual embarking on a career change as an aspiring software developer. 
+  I have situated my artistic aesthetics in the fashion industry and have experience as a pattern cutter. Working with various software’s has opened my eyes to the possibilities of the technology industry and this discovery of the tech world has had me excited to learn more, with my passion for problem solving and knowledge of how things work it was a natural progression for me to find out more.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                         | Description                             | Tech/tools        |
+| ---------------------------- | -----------------                       | ----------------- |
+| **Weather APP**              | Provides Weather  for chosen city.      | Java, html, CSS |
+| **Student Directory**        | Practice in ruby methods.               | Ruby
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Freelance Fashion Pattern Cutter** (start-date to end-date)  
+
+-	Pattern cutting, Grading, cutting and sample service
 
 - Any experience, including roles and responsibilities and results achived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Gradehouse** (start-date to end-date)  
+Production Assistant
 
-- Any experience relevent to software development
+- Pattern cutting
+- samples,
+- (CAD) Gerber tech
+- Admin
 
 ## Skills
+I am currently a freelance Creative Pattern Cutter with previous work experience in customer service and logistics. As my previous experience and training are not from a digital background, I have taken a proactive approach to aid this transition by self-learning and participating in short courses I feel I have relevant skills from my previous training and employment that can be re-directed to aid in this journey.  My experience with the practical side of fashion production has provided insight into an interest in software development using various CAD software, I found that I enjoyed this side of my work and wanted to discover more about the digital industry.
+  I am adept with project management skills being able to solve problems in technical construction and computer data input. Which I feel are all transferable skills.
 
-Your previous experience is really important. You will need to make it really clear to someone who has not worked in your field before exactly how your experience will be useful in software development.
-
-Consider skills relevent to software development. Then consider projects you've worked on before Makers that you feel proud of and/or you think are relevent to technology. Good examples clearly explain the impact you've had. 
-
-
-Here's an example
 
 #### Communication
-I honed my communication skills while completing my thesis at university, which involved writing and defending a dissertation to a board of professors and Ph.D. candidates. I further developed these skills when I was working in a digital marketing agency where I presented quarterly business reviews to C-level stakeholders. In doing so, I synthesised complex technical information into a digestible but comprehensive story for the different levels of knowledge in the room. My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+I honed my communication skills whilst working as a freelance pattern cutter, I often have to comunicate between diffent teams from the designer to the manufacturing companies to make sure all the different specifications match up and my clients needs are met. Also working in retail initially gave me a great foundation for this liasing with customers and collegues from the start of my employment history.
+   My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
 
 #### Another skill
 
@@ -46,24 +48,30 @@ I honed my communication skills while completing my thesis at university, which 
 ## Education
 
 #### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+During the initial 4 weeks of the pre-course, Ive already gained experience in Test-Driven Development with the use:
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Ruby
+- RSpec 
+- Continuous Integration with Travis
+- Version control through Git and GitHub
+
+#### London Metropolitan University (start_date to end_date)
+
+- BA Hons Degree Fashion Business and Pattern Cutting 
+I learnt various skills during my degree making me adapt in a vaiety of areas within Fashion:
+- CAD Design
+- Photograpy
+- Pattern Cutting
+- Business
+- Gerber Technology
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+•	Introduction to coding Certificate
+•	Front End Development Certificate
+•	Software Engineering Fundamentals certificate
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+I love reading Sci-fi fantasy books, going to Art Exhibitions and Fashion shows. Im a avid D.I.Y.ER!
