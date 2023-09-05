@@ -11,6 +11,9 @@ I am a creative thinker and a self-motivated individual embarking on a career ch
 
 | Name                         | Description                             | Tech/tools        |
 | ---------------------------- | -----------------                       | ----------------- |
+| **Community Cupboard**       | This is a full stack project using the MERN stack. This project aims to create an online food bank web app for those who are in need. | Express, React,Cypress, MongoDB Atlas, Framer-Motion, CSS, HTML|
+| **Acebook**                  | ACEBOOK, a robust social networking platform built with React, Express.js, MongoDB, JWT, and tested with Jest and Cypress. | JS, React, Express.js, MongoDB, JWT, Jest, Cypress |
+| **Makers BnB**               | Web application built with Sinatra that allows users to list and book rental spaces, inspired by Airbnb. | Ruby, Sinatra, PostgreSQL, BCrypt, RSpec |
 | **Weather APP**              | Provides Weather  for chosen city.      | Java, html, CSS |
 | **Student Directory**        | Practice in ruby methods.               | Ruby
 
@@ -22,7 +25,7 @@ Freelance Fashion Pattern Cutter (Feb 2016 - Current)
 
 -   Collaborated with designers to create precise pattern templates, representing design elements accurately.
 
--   Utilized specialized CAD software (e.g., Gerber) to digitize and optimize patterns for production efficiency.
+-   Utilized specialized CAD software (e.g. Gerber) to digitize and optimize patterns for production efficiency.
 
 -   Managed pattern grading for consistent sizing across various garment styles.
 Conducted fittings, adjustments, and liaised with production teams for seamless transition to final products.
@@ -53,27 +56,27 @@ Production Assistant
 -   Assisted in administrative tasks.
 
 ## Skills
-I am currently a freelance Creative Pattern Cutter with previous work experience in customer service and logistics. As my previous experience and training are not from a digital background, I have taken a proactive approach to aid this transition by self-learning and participating in short courses I feel I have relevant skills from my previous training and employment that can be re-directed to aid in this journey.  My experience with the practical side of fashion production has provided insight into an interest in software development using various CAD software, I found that I enjoyed this side of my work and wanted to discover more about the digital industry.
-  I am adept with project management skills being able to solve problems in technical construction and computer data input. Which I feel are all transferable skills.
 
+I have a diverse background, initially working as a freelance Creative Pattern Cutter with previous experience in customer service and logistics. Despite my non-digital background, I've proactively embraced a transition into the tech industry. I've supplemented my knowledge through self-learning and relevant short courses, leveraging skills acquired from previous training and employment. My practical experience in fashion production has sparked a genuine interest in software development, particularly in utilizing various CAD software tools. This journey has highlighted my adaptability and commitment to continuous learning.
 
-#### Communication
-I honed my communication skills whilst working as a freelance pattern cutter, I often have to comunicate between diffent teams from the designer to the manufacturing companies to make sure all the different specifications match up and my clients needs are met. Also working in retail initially gave me a great foundation for this liasing with customers and collegues from the start of my employment history.
-   My communication skills have also often come in handy while training to be a developer. For example, I recently ran a session for my mentees, who have only been coding for a few weeks, on how to use mocks to improve unit test isolation. I received feedback that the session was well run and helped them understand this potentially confusing topic.
+## Communication
 
-#### Another skill
+Effective communication has been a cornerstone of my professional journey. As a freelance pattern cutter, I've regularly bridged communication gaps between different teams, ensuring alignment between designers and manufacturing companies while meeting client specifications. My foundation in retail provided essential communication skills, fostering positive interactions with customers and colleagues from the outset of my career.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+These communication skills have been invaluable in my transition to software development. For instance, I recently conducted a session for my mentees, who were new to coding, where I explained how to use mocks to enhance unit test isolation. Feedback highlighted my ability to convey complex topics effectively, helping others grasp potentially confusing concepts.
 
-#### Another skill
+## Problem-Solving
+
+I possess strong problem-solving abilities cultivated throughout my professional journey. This skill set was particularly evident during my time as a Freelance Pattern Cutter, where I routinely tackled intricate pattern-related challenges. I applied creative problem-solving techniques, often having to createmore samples or testing fabrics to solve problems and often re-addressing clients needs, optimizing design and production processes. Whether resolving fitting issues or devising innovative solutions for complex pattern modifications, I consistently approach problems with a solution-oriented mindset. I recognised these skills whilst on the software engineering bootcamp and was able to put it to play with planning and TDD practices.
+
+## Team Collaboration and Leadership
+
+Team collaboration and leadership have been instrumental in my recent transition to software development. Working on diverse projects during my software development bootcamp, I excelled in team environments, actively participating in daily stand-ups and retrospectives being able to effectively communicate in my team whilst making others comfortable to voice there opinions. My contributions and receptiveness to feedback enhanced overall team performance, emphasizing my teamwork and leadership capabilities.
 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (09/05/2023 to 11/08/2023)
 
 During the initial 4 weeks of the pre-course, Ive already gained experience in Test-Driven Development with the use:
 
@@ -82,7 +85,15 @@ During the initial 4 weeks of the pre-course, Ive already gained experience in T
 - Continuous Integration with Travis
 - Version control through Git and GitHub
 
-#### London Metropolitan University (start_date to end_date)
+#### SheCodes 
+
+This was my first introduction to coding i created a weather app using API's and learnt React
+
+- JavaScript    
+- CSS
+- React
+
+#### London Metropolitan University
 
 - BA Hons Degree Fashion Business and Pattern Cutting 
 I learnt various skills during my degree making me adapt in a vaiety of areas within Fashion:
@@ -92,11 +103,6 @@ I learnt various skills during my degree making me adapt in a vaiety of areas wi
 - Business
 - Gerber Technology
 
-#### Any other qualifications
-
-•	Introduction to coding Certificate
-•	Front End Development Certificate
-•	Software Engineering Fundamentals certificate
 
 ## Hobbies
 
