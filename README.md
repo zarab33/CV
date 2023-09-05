@@ -33,23 +33,23 @@ Conducted fittings, adjustments, and liaised with production teams for seamless 
 -   Pattern cutting, Grading, cutting and sample service
 
 
-**Lilian Davis Group** (10/2017- 02/2023)
-Accounts Assistant 
+**Accounts Assistant** (10/2017- 02/2023)
+Lilian Davis Group 
 
 -   Managed Microsoft Dynamics system.
 -   Processed supplier invoices and reconciled supplier accounts.
 -   Assisted in management accounts and reconciled VAT.
 -   Performed bank reconciliation and managed payments.
 
-**IKEA** (10/2010- 09/2015)
-Logistics Co-worker
+**Logistics Co-worker** (10/2010- 09/2015)
+IKEA
 
 -   Handled replenishment, stock control, and stock loss.
 -   Managed administrative tasks and timesheets.
 
 
-**Gradehouse** (10/2012-04-2013)  
-Production Assistant
+**Production Assistant** (10/2012-04-2013)  
+Gradehouse
 
 -   Performed pattern cutting and managed samples.
 -   Utilized CAD (Gerber) technology.
