@@ -18,55 +18,39 @@ I am a creative thinker and a self-motivated individual embarking on a career ch
 
 **Freelance Fashion Pattern Cutter** (Feb 2016 - Current)  
 
+Freelance Fashion Pattern Cutter (Feb 2016 - Current)
+
+-   Collaborated with designers to create precise pattern templates, representing design elements accurately.
+
+-   Utilized specialized CAD software (e.g., Gerber) to digitize and optimize patterns for production efficiency.
+
+-   Managed pattern grading for consistent sizing across various garment styles.
+Conducted fittings, adjustments, and liaised with production teams for seamless transition to final products.
+
 -   Pattern cutting, Grading, cutting and sample service
 
--   Collaborated with designers to interpret and translate creative concepts into precise pattern templates, ensuring accurate representation of design elements.
-
--   Utilized specialized CAD software (such as Gerber) to digitize and modify patterns, optimizing efficiency and accuracy in pattern production.
-
--   Performed pattern grading to adjust sizes and proportions, maintaining consistency across different garment sizes and styles.
-
--   Conducted meticulous fittings and adjustments on prototype garments to achieve optimal fit, drape, and overall aesthetic.
-
--   Liaised with garment production teams to communicate technical specifications, ensuring seamless transition from pattern to final product.
-
--   Demonstrated strong problem-solving skills by resolving intricate pattern-related challenges, optimizing design and production processes.
-
--   Managed pattern libraries and documentation, ensuring easy accessibility and retrieval of patterns for future reference.
-
--   Collaborated with cross-functional teams, including seamstresses, tailors, and designers, to ensure cohesive execution of design concepts.
-
--   Employed strong organizational skills to manage multiple projects simultaneously, adhering to tight deadlines and delivering high-quality patterns.
 
 **Lilian Davis Group** (10/2017- 02/2023)
 Accounts Assistant 
 
-	System: Microsoft Dynamics 
-	Processing Supplier invoices
-	Supplier reconciliation
-	Supplier queries
-	Assisting management accounts
-	Reconciling vat, 
-	Bank reconciliation
-	Banking cheques 
-	BACS payment run 
-	Chaps payments
-	Petty Cash 
-	Mailbox Management 
+-   Managed Microsoft Dynamics system.
+-   Processed supplier invoices and reconciled supplier accounts.
+-   Assisted in management accounts and reconciled VAT.
+-   Performed bank reconciliation and managed payments.
 
 **IKEA** (10/2010- 09/2015)
 Logistics Co-worker
 
-Replenishment, Stock control, stock loss itinerary, Admin, timesheet
+-   Handled replenishment, stock control, and stock loss.
+-   Managed administrative tasks and timesheets.
 
 
 **Gradehouse** (10/2012-04-2013)  
 Production Assistant
 
-- Pattern cutting
-- samples,
-- (CAD) Gerber tech
-- Admin
+-   Performed pattern cutting and managed samples.
+-   Utilized CAD (Gerber) technology.
+-   Assisted in administrative tasks.
 
 ## Skills
 I am currently a freelance Creative Pattern Cutter with previous work experience in customer service and logistics. As my previous experience and training are not from a digital background, I have taken a proactive approach to aid this transition by self-learning and participating in short courses I feel I have relevant skills from my previous training and employment that can be re-directed to aid in this journey.  My experience with the practical side of fashion production has provided insight into an interest in software development using various CAD software, I found that I enjoyed this side of my work and wanted to discover more about the digital industry.
