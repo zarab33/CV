@@ -21,7 +21,6 @@ I am a creative thinker and a self-motivated individual embarking on a career ch
 
 **Freelance Fashion Pattern Cutter** (Feb 2016 - Current)  
 
-Freelance Fashion Pattern Cutter (Feb 2016 - Current)
 
 -   Collaborated with designers to create precise pattern templates, representing design elements accurately.
 
